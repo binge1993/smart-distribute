@@ -20,5 +20,6 @@
 
 	<modules>
 		<module>smart-rpc</module>
+		<module>smart-autocache</module>
 	</modules>
 </project>
